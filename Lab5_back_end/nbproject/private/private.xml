@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/bl/BaseBL.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/test/Test.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/bl/UsuarioBL.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/test/TestUser.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/dao/ProductoDAO.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/dao/IBaseCRUD.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/dao/UsuarioDAO.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/domain/Usuario.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/dao/ABaseDAO.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/domain/Producto.java</file>
+            <file>file:/E:/Carrera/Ciclo%20I%202018/Moviles/Lab05/laboratorio_5/Lab5_back_end/src/cr/ac/una/moviles/lab5/bl/ProductoBL.java</file>
+        </group>
+    </open-files>
+</project-private>
